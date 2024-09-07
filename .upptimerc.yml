@@ -13,7 +13,7 @@ sites:
     url: https://asuracomic.net
   - name: MangaKakalot
     url: https://mangakakalot.com
-  -name: 9Anime
+  - name: 9Anime
     url: https://aniwave.to
   - name: Gogo Anime
     url: https://anitaku.pe
