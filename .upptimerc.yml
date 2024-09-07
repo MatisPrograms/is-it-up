@@ -5,19 +5,18 @@ repo: is-it-up # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-  - name: Connect 4 ShowDown
+  - name: F1 Live Streams
+    url: https://live1.formula1stream.cc
+  - name: Connect 4 Showdown
     url: https://connect-4-showdown.onrender.com
+  - name: Asura Scans
+    url: https://asuracomic.net
+  - name: MangaKakalot
+    url: https://mangakakalot.com
+  -name: 9Anime
+    url: https://aniwave.to
+  - name: Gogo Anime
+    url: https://anitaku.pe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
