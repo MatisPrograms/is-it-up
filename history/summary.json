@@ -40,19 +40,19 @@
     "url": "https://connect-4-showdown.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/connect-4-showdown.onrender.com.ico",
     "slug": "connect-4-showdown",
-    "status": "down",
-    "uptime": "90.68%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "90.68%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "90.68%",
-    "time": 5548,
-    "timeDay": 6661,
-    "timeWeek": 5548,
-    "timeMonth": 5548,
-    "timeYear": 5548,
+    "status": "up",
+    "uptime": "90.09%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "90.09%",
+    "uptimeMonth": "90.09%",
+    "uptimeYear": "90.09%",
+    "time": 5116,
+    "timeDay": 6031,
+    "timeWeek": 5116,
+    "timeMonth": 5116,
+    "timeYear": 5116,
     "dailyMinutesDown": {
-      "2024-09-08": 69,
+      "2024-09-08": 79,
       "2024-09-07": 75
     }
   },
@@ -73,7 +73,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-09-08": 675,
+      "2024-09-08": 686,
       "2024-09-07": 887
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-09-08": 675,
+      "2024-09-08": 686,
       "2024-09-07": 887
     }
   },
