@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/connect-4-showdown.onrender.com.ico",
     "slug": "connect-4-showdown",
     "status": "up",
-    "uptime": "89.90%",
+    "uptime": "89.99%",
     "uptimeDay": "89.89%",
-    "uptimeWeek": "89.90%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "89.90%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "89.99%",
     "time": 5548,
     "timeDay": 6038,
     "timeWeek": 5548,
@@ -73,7 +73,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-09-08": 555,
+      "2024-09-08": 568,
       "2024-09-07": 887
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-09-08": 555,
+      "2024-09-08": 568,
       "2024-09-07": 887
     }
   },
@@ -121,19 +121,19 @@
     "url": "https://anitaku.pe",
     "icon": "https://icons.duckduckgo.com/ip3/anitaku.pe.ico",
     "slug": "gogo-anime",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1832,
-    "timeDay": 2570,
-    "timeWeek": 1832,
-    "timeMonth": 1832,
-    "timeYear": 1832,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
+    "time": 1556,
+    "timeDay": 1956,
+    "timeWeek": 1556,
+    "timeMonth": 1556,
+    "timeYear": 1556,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 13
     }
   }
 ]
