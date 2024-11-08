@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/connect-4-showdown.onrender.com.ico",
     "slug": "connect-4-showdown",
     "status": "down",
-    "uptime": "32.73%",
+    "uptime": "32.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.73%",
+    "uptimeYear": "32.52%",
     "time": 2121,
     "timeDay": 230,
     "timeWeek": 248,
     "timeMonth": 264,
     "timeYear": 2121,
     "dailyMinutesDown": {
-      "2024-11-08": 66,
+      "2024-11-08": 620,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -132,7 +132,7 @@
     "timeMonth": 111,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-11-08": 66,
+      "2024-11-08": 620,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -220,9 +220,9 @@
     "url": "https://anitaku.pe",
     "icon": "https://icons.duckduckgo.com/ip3/anitaku.pe.ico",
     "slug": "gogo-anime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -232,6 +232,7 @@
     "timeMonth": 607,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-10-22": 25
     }
   }
