@@ -8,13 +8,15 @@ sites:
   - name: F1 Live Streams
     url: https://live1.formula1stream.cc
   - name: Connect 4 Showdown
-    url: https://connect-4-showdown.onrender.com
+    url: https://connect4.losherrmannos.duckdns.org
+  - name: Jellyfin
+    url: https://jellyfin.losherrmannos.duckdns.org
   - name: Asura Scans
     url: https://asuracomic.net
   - name: MangaKakalot
     url: https://mangakakalot.com
-  - name: Gogo Anime
-    url: https://anitaku.pe
+  - name: HiAnime!
+    url: https://hianime.to/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
