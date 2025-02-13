@@ -42,9 +42,9 @@
     "slug": "connect-4-showdown",
     "status": "up",
     "uptime": "14.47%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "38.96%",
-    "uptimeMonth": "7.06%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "39.19%",
+    "uptimeMonth": "7.11%",
     "uptimeYear": "14.47%",
     "time": 1818,
     "timeDay": 6461,
@@ -52,7 +52,6 @@
     "timeMonth": 2286,
     "timeYear": 1818,
     "dailyMinutesDown": {
-      "2025-02-13": 12,
       "2025-02-12": 20,
       "2025-02-11": 67,
       "2025-02-10": 844,
@@ -209,7 +208,7 @@
       "2024-09-12": 85,
       "2024-09-11": 119,
       "2024-09-10": 141,
-      "2024-09-09": 37
+      "2024-09-09": 57
     }
   },
   {
@@ -218,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.losherrmannos.duckdns.org.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "70.64%",
+    "uptime": "70.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.64%",
-    "uptimeMonth": "70.64%",
-    "uptimeYear": "70.64%",
+    "uptimeWeek": "70.70%",
+    "uptimeMonth": "70.70%",
+    "uptimeYear": "70.70%",
     "time": 5064,
     "timeDay": 6187,
     "timeWeek": 5064,
@@ -239,16 +238,16 @@
     "url": "https://asuracomic.net",
     "icon": "https://icons.duckduckgo.com/ip3/asuracomic.net.ico",
     "slug": "asura-scans",
-    "status": "up",
-    "uptime": "92.11%",
-    "uptimeDay": "8.07%",
-    "uptimeWeek": "26.78%",
-    "uptimeMonth": "58.79%",
-    "uptimeYear": "92.11%",
+    "status": "down",
+    "uptime": "92.17%",
+    "uptimeDay": "8.81%",
+    "uptimeWeek": "26.89%",
+    "uptimeMonth": "59.09%",
+    "uptimeYear": "92.17%",
     "time": 252,
-    "timeDay": 297,
-    "timeWeek": 295,
-    "timeMonth": 324,
+    "timeDay": 286,
+    "timeWeek": 290,
+    "timeMonth": 323,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-02-13": 440,
@@ -266,7 +265,7 @@
       "2025-01-31": 1201,
       "2025-01-30": 1380,
       "2025-01-29": 1372,
-      "2025-01-28": 255
+      "2025-01-28": 123
     }
   },
   {
