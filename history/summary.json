@@ -44,7 +44,7 @@
     "uptime": "22.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.63%",
+    "uptimeMonth": "69.69%",
     "uptimeYear": "22.32%",
     "time": 1953,
     "timeDay": 802,
@@ -240,15 +240,15 @@
     "url": "https://asuracomic.net",
     "icon": "https://icons.duckduckgo.com/ip3/asuracomic.net.ico",
     "slug": "asura-scans",
-    "status": "up",
-    "uptime": "86.95%",
-    "uptimeDay": "47.46%",
-    "uptimeWeek": "12.81%",
-    "uptimeMonth": "24.92%",
-    "uptimeYear": "86.95%",
+    "status": "down",
+    "uptime": "86.99%",
+    "uptimeDay": "47.71%",
+    "uptimeWeek": "12.93%",
+    "uptimeMonth": "25.15%",
+    "uptimeYear": "86.99%",
     "time": 268,
-    "timeDay": 378,
-    "timeWeek": 336,
+    "timeDay": 377,
+    "timeWeek": 331,
     "timeMonth": 320,
     "timeYear": 268,
     "dailyMinutesDown": {
@@ -278,7 +278,7 @@
       "2025-02-05": 1142,
       "2025-02-04": 1280,
       "2025-02-03": 1198,
-      "2025-02-02": 148
+      "2025-02-02": 51
     }
   },
   {
