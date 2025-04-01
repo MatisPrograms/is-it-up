@@ -260,19 +260,19 @@
     "url": "https://asuracomic.net",
     "icon": "https://icons.duckduckgo.com/ip3/asuracomic.net.ico",
     "slug": "asura-scans",
-    "status": "up",
-    "uptime": "95.87%",
-    "uptimeDay": "57.54%",
-    "uptimeWeek": "42.97%",
-    "uptimeMonth": "72.06%",
-    "uptimeYear": "95.87%",
+    "status": "down",
+    "uptime": "95.91%",
+    "uptimeDay": "58.21%",
+    "uptimeWeek": "43.06%",
+    "uptimeMonth": "72.27%",
+    "uptimeYear": "95.91%",
     "time": 301,
-    "timeDay": 312,
-    "timeWeek": 306,
+    "timeDay": 307,
+    "timeWeek": 305,
     "timeMonth": 322,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-04-01": 183,
+      "2025-04-01": 185,
       "2025-03-31": 851,
       "2025-03-30": 631,
       "2025-03-29": 576,
@@ -285,7 +285,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 719,
       "2025-03-20": 627,
-      "2025-03-19": 244
+      "2025-03-19": 150
     }
   },
   {
@@ -305,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-04-01": 578,
+      "2025-04-01": 589,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
