@@ -42,11 +42,11 @@
     "url": "https://connect4.losherrmannos.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/connect4.losherrmannos.duckdns.org.ico",
     "slug": "connect-4-showdown",
-    "status": "up",
+    "status": "down",
     "uptime": "39.92%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "79.65%",
-    "uptimeMonth": "36.91%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "36.94%",
     "uptimeYear": "39.92%",
     "time": 2280,
     "timeDay": 2759,
@@ -54,7 +54,7 @@
     "timeMonth": 2230,
     "timeYear": 2280,
     "dailyMinutesDown": {
-      "2025-06-20": 42,
+      "2025-06-20": 44,
       "2025-06-19": 344,
       "2025-06-18": 1440,
       "2025-06-17": 226,
@@ -262,7 +262,7 @@
       "2024-09-21": 216,
       "2024-09-20": 135,
       "2024-09-19": 76,
-      "2024-09-18": 59
+      "2024-09-18": 41
     }
   },
   {
@@ -270,11 +270,11 @@
     "url": "https://jellyfin.losherrmannos.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.losherrmannos.duckdns.org.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "71.18%",
-    "uptimeDay": "31.85%",
-    "uptimeWeek": "76.93%",
-    "uptimeMonth": "36.22%",
+    "uptimeDay": "31.74%",
+    "uptimeWeek": "76.91%",
+    "uptimeMonth": "36.25%",
     "uptimeYear": "71.18%",
     "time": 3554,
     "timeDay": 1846,
@@ -282,7 +282,7 @@
     "timeMonth": 2401,
     "timeYear": 3554,
     "dailyMinutesDown": {
-      "2025-06-20": 956,
+      "2025-06-20": 958,
       "2025-06-19": 25,
       "2025-06-18": 1119,
       "2025-06-17": 225,
@@ -416,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-06-20": 1056,
+      "2025-06-20": 1069,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
